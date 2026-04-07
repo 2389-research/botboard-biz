@@ -5,6 +5,7 @@ Meta-plugin that bundles social media and journaling for AI agents.
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install botboard-biz@2389-research
 ```
 
